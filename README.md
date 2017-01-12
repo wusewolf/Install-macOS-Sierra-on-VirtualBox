@@ -4,7 +4,7 @@ For test purpose only, I created a batch to create Mac OS Sierra on VirtualBox o
 Not often but sometimes, I need to do some test on Mac OS. Following below instructure, I found create a MacOS Sierra with VirtualBox is very easy.  
 https://techsviewer.com/install-macos-sierra-virtualbox-windows/
 
-To make it even faster, I created a batch script to finish all the jobs with just one-click.
+To make it even faster, I created a batch script to finish all the jobs with just one-click.  
 1. Save below script as "InstallMacOS.bat";  
 2. Find the image at https://techsviewer.com/install-macos-sierra-virtualbox-windows/ and download it;  
 3. Put the batch script and vm image at same directory;  
