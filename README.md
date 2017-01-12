@@ -5,12 +5,12 @@ Not often but sometimes, I need to do some test on Mac OS. Following below instr
 https://techsviewer.com/install-macos-sierra-virtualbox-windows/
 
 To make it even faster, I created a batch script to finish all the jobs with just one-click.
-1. Save below script as "InstallMacOS.bat";
-2. Find the image at https://techsviewer.com/install-macos-sierra-virtualbox-windows/ and download it;
-3. Put the batch script and vm image at same directory;
-4. Run the script as Adminitrator;
-5. Open your VirtualBox to find a new VM named "macOS 10.12 Sierra"
-6. Enjoy!
+1. Save below script as "InstallMacOS.bat";  
+2. Find the image at https://techsviewer.com/install-macos-sierra-virtualbox-windows/ and download it;  
+3. Put the batch script and vm image at same directory;  
+4. Run the script as Adminitrator;  
+5. Open your VirtualBox to find a new VM named "macOS 10.12 Sierra"  
+6. Enjoy!  
 Visit TechsViewer for further information.
 
 ```
